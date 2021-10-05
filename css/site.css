@@ -1,0 +1,109 @@
+body{
+    background:linear-gradient(120deg, #08011d93, #ddcef0d3);
+}
+
+header{
+    width: 100%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.76);
+   
+}
+
+.geral{
+    border: solid rgba(2, 0, 0, 0.699);
+    background: rgba(19, 26, 1, 0.479);
+    width: 80%;
+    margin-top: 1%;
+}
+
+.titulo{
+    justify-content: center;
+    display: flex;
+
+}
+
+.text{
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#quadribol{
+    height: 500px;
+    width: 400px;
+    padding: 00px;
+    border:solid rgb(143, 104, 72);
+}
+
+#profeta{
+    height: 500px;
+    width: 400px;
+    padding: 00px;
+    border:solid rgb(143, 104, 72);
+}
+
+#gringotes{
+    height: 500px;
+    width: 400px;
+    border:solid rgb(143, 104, 72);
+    padding: 00px;
+}
+
+#sirius{
+    height: 500px;
+    width: 400px;
+    padding: 00px;
+    border:solid rgb(143, 104, 72);
+}
+
+#login{
+    text-decoration: none;
+    border: solid 1px rgb(0, 0, 0);
+    background-color: rgba(90, 78, 50, 0.767);
+    color: white;
+    border-radius: 5px;
+    font-size: 19px;
+    padding: 2px;
+    position: absolute;
+    left: 93%;
+    margin-top: 0.3%;
+}
+
+#login:hover{
+    border: 2px solid white;
+    background:rgb(143, 104, 72);
+    transition: 200ms;
+    border-radius: 7px;
+}
+.grifinoria{
+    background: linear-gradient(120deg, #aa3131, #d4f809d3);
+    transition: all 0.5s ease-in-out;
+}
+
+.sonserina{
+    background: linear-gradient(120deg, #0c5004c5, #909280d3);
+    transition: all 0.5s ease-in-out;
+}
+
+.lufa-lufa{
+    background: linear-gradient(120deg, #dfdb17, #00000069);
+    transition: all 0.5s ease-in-out;
+}
+
+.corvinal{
+    background: linear-gradient(120deg, #1042a0, #77640cb4);
+    transition: all 0.5s ease-in-out;
+}
+
+.comum{
+    background: linear-gradient(120deg, #08011d93, #ddcef0d3);
+    transition: all 0.5s ease-in-out;
+}
+
+button{
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    margin: 0.3%;
+    margin-top: 1%;
+}
