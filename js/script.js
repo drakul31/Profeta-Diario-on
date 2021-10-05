@@ -1,6 +1,6 @@
 //definindo login e senha
-const USER_DB= "drakul31";
-const PASS_DB= "111";
+const USER_DB= "drakul31@gmail.com";
+const PASS_DB= "7011";
 
 //criando variaveis de elementos HTML (login e senha)
 var user = document.getElementById('login')
@@ -18,5 +18,6 @@ button.addEventListener("click", function(){
         //bloco de codigo
         window.location.href = "../html/home.html";
     }
+    
 
 })
